@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋Hi, I'm Ajith Kumar<br>🖌️A passionate and creative UI Developer with a strong eye for design and user experience<br>⚡Skilled in HTML, CSS, and JavaScript, with a focus on responsive and accessible web interfaces <br>🌱Continuously expanding expertise in modern frameworks like React.js and Express.js 
+
+                                                                                          👋Hi, I'm Ajith Kumar
+<br>🖌️A passionate and creative UI Developer with a strong eye for design and user experience<br>⚡Skilled in HTML, CSS, and JavaScript, with a focus on responsive and accessible web interfaces <br>🌱Continuously expanding expertise in modern frameworks like React.js and Express.js 
 
 
 ## 🌐 Socials:
